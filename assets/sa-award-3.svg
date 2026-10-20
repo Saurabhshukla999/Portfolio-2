@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="640" viewBox="0 0 1000 640">
+  <rect width="1000" height="640" fill="#101010"/>
+  <rect x="28" y="28" width="944" height="584" fill="none" stroke="#2f2f2f" stroke-width="2"/>
+  <rect x="44" y="44" width="912" height="552" fill="none" stroke="#1c1c1c"/>
+  <text x="500" y="128" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" letter-spacing="12" fill="#990000">DEGREE</text>
+  <text x="500" y="262" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="bold" fill="#f2f2f2">B.Tech, Computer Science</text>
+  <text x="500" y="334" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="bold" fill="#f2f2f2">&amp; Engineering</text>
+  <line x1="340" y1="384" x2="660" y2="384" stroke="#990000" stroke-width="2"/>
+  <text x="500" y="452" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#9a9a9a">Dronacharya College of Engineering</text>
+  <text x="500" y="502" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#6a6a6a">2022 — 2026 · 74.56%</text>
+  <text x="500" y="566" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" letter-spacing="6" fill="#f2f2f2">SAURABH SHUKLA</text>
+  <circle cx="874" cy="540" r="46" fill="none" stroke="#990000" stroke-width="3"/>
+  <text x="874" y="552" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="bold" fill="#990000">SS</text>
+</svg>
